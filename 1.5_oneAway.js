@@ -31,7 +31,3 @@ const oneAway = (str1, str2) => {
 //Space Complexity: O(1)
 
 
-let myStr1 = 'pale'
-let myStr2 = 'pales'
-
-console.log(oneAway(myStr1, myStr2))

@@ -31,5 +31,3 @@ let myStr1 = 'taco'
 let myStr2 = 'acto' //=> true
 
 let myStr3 = 'pie' //=> false
-
-console.log(chkPermu(myStr1, myStr2))

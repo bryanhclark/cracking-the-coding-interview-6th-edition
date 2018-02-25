@@ -1,0 +1,23 @@
+{
+  "name": "cracking-the-coding-interview-6th-edition",
+  "version": "1.0.0",
+  "description": "## Javascript solutions for the 189 problems provided in the book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanhclark/cracking-the-coding-interview-6th-edition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanhclark/cracking-the-coding-interview-6th-edition/issues"
+  },
+  "homepage": "https://github.com/bryanhclark/cracking-the-coding-interview-6th-edition#readme",
+  "dependencies": {
+    "nodemon": "^1.15.1"
+  }
+}
